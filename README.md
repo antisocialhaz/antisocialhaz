@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 🌱 I’m currently learning frontend development
 - 👯 I’m looking to collaborate on projects involving JavaScript & Responsive Design
